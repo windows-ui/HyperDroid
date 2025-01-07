@@ -1,2 +1,2 @@
-# This-PC Launcher
-Project ThisPC. 
+# HyperDroid - PC Launcher
+Project HyperDroid. 
