@@ -9,25 +9,25 @@ Native desktop experience on your android device.
 ## Features
 
 ### 🎛️ **User-Friendly Interface**  
-  Intuitive desktop-style interface optimized for both touch input and external peripherals (keyboard, mouse, etc.).
+  > Intuitive desktop-style interface optimized for both touch input and external peripherals (keyboard, mouse, etc.).
 
 ### 🪟 **Floating Window Support**  
-  Launch installed WebApps in resizable, floating windows for enhanced multitasking.
+  > Launch installed WebApps in resizable, floating windows for enhanced multitasking.
 
 ### 🔧 **Customizable Display Density**  
-  Adjust screen scaling to suit your preferences and display size.
+  > Adjust screen scaling to suit your preferences and display size.
 
 ### 🌍 **Multi-Language Support**  
-  Available in multiple languages to ensure a more accessible experience for all users.
+  > Available in multiple languages to ensure a more accessible experience for all users.
 
 ### 📁 **Built-in File Manager**  
-  Manage your files easily with a clean and user-friendly file explorer.
+  > Manage your files easily with a clean and user-friendly file explorer.
 
 ### 🎨 **Editable App Icons and Names**  
-  Personalize your experience by renaming apps and changing their icons.
+  > Personalize your experience by renaming apps and changing their icons.
 
 ### 📱 **Set as Default Launcher**  
-  Optionally set **HyperDroid** as your system’s default launcher for seamless integration.
+  > Optionally set **HyperDroid** as your system’s default launcher for seamless integration.
 
 ## Links
 <a href="https://github.com/windows-ui/HyperDroid/tree/main/PrivacyPolicy">
