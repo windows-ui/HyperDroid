@@ -1,9 +1,6 @@
 # HyperDroid - PC Launcher
 Native desktop experience on your android device.
 
-![Rating](https://img.shields.io/badge/Rating-4.X★-brightgreen?style=for-the-badge&logo=google-play)
-![Downloads](https://img.shields.io/badge/Downloads-5L+-blue?style=for-the-badge&logo=thestorygraph)
-
 ## Get
 <a href="https://play.google.com/store/apps/details?id=com.binary.hyperdroid">
   <img src="src/assets/playstore_link.svg" alt="Build" />
@@ -33,4 +30,6 @@ Native desktop experience on your android device.
   Optionally set **HyperDroid** as your system’s default launcher for seamless integration.
 
 ## Links
-[![Privacy Policy](https://img.shields.io/badge/Privacy%20Policy-View-blue?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/windows-ui/HyperDroid/tree/main/PrivacyPolicy)
+<a href="https://github.com/windows-ui/HyperDroid/tree/main/PrivacyPolicy">
+  <img src="https://img.shields.io/badge/Privacy%20Policy-View-blue?style=for-the-badge&logo=shield&logoColor=white" style="height:40px;">
+</a>
