@@ -31,5 +31,5 @@ Native desktop experience on your android device.
 
 ## Links
 <a href="https://github.com/windows-ui/HyperDroid/tree/main/PrivacyPolicy">
-  <img src="https://img.shields.io/badge/Privacy%20Policy-View-blue?style=for-the-badge&logo=shield&logoColor=white" style="height:40px;">
+  <img src="https://img.shields.io/badge/Privacy%20Policy-View-blue?style=for-the-badge&logo=polywork&logoColor=white" style="height:40px;">
 </a>
