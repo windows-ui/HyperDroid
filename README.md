@@ -8,7 +8,7 @@ Native desktop experience on your android device.
 
 ## Features
 
-### 🎛️ **User-Friendly Interface**  
+### ✨ **User-Friendly Interface**  
 <sup>Intuitive desktop-style interface optimized for both touch input and external peripherals (keyboard, mouse, etc.).</sup>
 
 ### 🪟 **Floating Window Support**  
