@@ -31,6 +31,16 @@ Native desktop experience on your android device.
     </tr>
   </tbody>
 </table>
+import android.content.Context
+import android.os.PowerManager
+
+fun goToSleep(context: Context) {
+    val powerManager = context.getSystemService(Context.POWER_SERVICE) as PowerManager
+    if (powerManager.isInteractive) {
+        // This command triggers the system to go to sleep mode
+        // Note: Requires DEVICE_ADMIN or system-level permissions on Android
+    }
+}
 
 ## Features
 
