@@ -33,7 +33,6 @@ Native desktop experience on your android device.
 </table>
 import android.content.Context
 import android.os.PowerManager
-
 fun goToSleep(context: Context) {
     val powerManager = context.getSystemService(Context.POWER_SERVICE) as PowerManager
     if (powerManager.isInteractive) {
