@@ -4,15 +4,15 @@
 </p>
 
 <p align="center">
-&#x20; <strong>Bring a desktop experience to your Android device.</strong>
-&#x20; <br>
-&#x20; A Desktop-inspired launcher designed for multitasking, customization, and productivity.
+<strong>Bring a desktop experience to your Android device.</strong>
+<br>
+A Desktop-inspired launcher designed for multitasking, customization, and productivity.
 </p>
 
 <p align="center">
-&#x20; <a href="[https://play.google.com/store/apps/details?id=com.binary.hyperdroid](https://play.google.com/store/apps/details?id=com.binary.hyperdroid)">
-&#x20; <img src="src/assets/playstore_link.svg" alt="Get it on Google Play">
-&#x20; </a>
+<a href="https://play.google.com/store/apps/details?id=com.binary.hyperdroid">
+<img src="src/assets/playstore_link.svg" alt="Get it on Google Play">
+</a>
 </p>
 
 ---
@@ -51,5 +51,5 @@ For a more integrated desktop experience, you can optionally set HyperDroid as y
     <img src="https://img.shields.io/badge/Privacy%20Policy-View-blue?style=for-the-badge" alt="Privacy Policy">
   </a>
 </p>
-&#x20; </a>
+</a>
 </p>
