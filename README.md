@@ -1,61 +1,55 @@
-# HyperDroid - PC Launcher
-Native desktop experience on your android device.
+<p align="center">
+<img src="src/assets/logo.webp" alt="HyperDroid" width="104px">
+<h1 align="center">HyperDroid - PC Launcher</h1>
+</p>
 
-## Get
-<a href="https://play.google.com/store/apps/details?id=com.binary.hyperdroid">
-  <img src="src/assets/playstore_link.svg" alt="Build" />
-</a>
+<p align="center">
+&#x20; <strong>Bring a desktop experience to your Android device.</strong>
+&#x20; <br>
+&#x20; A Desktop-inspired launcher designed for multitasking, customization, and productivity.
+</p>
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="2">Screenshots</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center;">
-        <img src="src/assets/screen_1.webp" alt="App's main screen with StartMenu" width="350">
-      </td>
-      <td style="text-align: center;">
-        <img src="src/assets/screen_4.webp" alt="Settings system" width="350">
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center;">
-        <img src="src/assets/screen_5.webp" alt="File Manager" width="350">
-      </td>
-      <td style="text-align: center;">
-        <img src="src/assets/screen_3.webp" alt="Settings colors" width="350">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+&#x20; <a href="[https://play.google.com/store/apps/details?id=com.binary.hyperdroid](https://play.google.com/store/apps/details?id=com.binary.hyperdroid)">
+&#x20; <img src="src/assets/playstore_link.svg" alt="Get it on Google Play">
+&#x20; </a>
+</p>
+
+---
+
+## Screenshots
+
+<p align="center">   <img src="src/assets/screen_1.webp" alt="HyperDroid desktop with Start Menu" width="48%">   &nbsp;   <img src="src/assets/screen_4.webp" alt="System settings" width="48%">   <br><br>   <img src="src/assets/screen_5.webp" alt="Built-in file manager" width="48%">   &nbsp;   <img src="src/assets/screen_3.webp" alt="Appearance and color settings" width="48%"> </p>
+
+---
 
 ## Features
 
-### ✨ **User-Friendly Interface**  
-<sup>Intuitive desktop-style interface optimized for both touch input and external peripherals (keyboard, mouse, etc.).</sup>
+| Feature                      | Description                                                                                         |
+| :--------------------------- | :-------------------------------------------------------------------------------------------------- |
+| **Desktop Experience**       | A familiar, intuitive desktop-style interface optimized for touchscreens, keyboards, and mice.      |
+| **Floating Windows**         | Launch supported WebApps in resizable floating windows for a more flexible multitasking experience. |
+| **Display Scaling**          | Customize display density to suit your screen size and personal preferences.                        |
+| **Multi-language Support**   | Use HyperDroid in multiple languages for a more accessible experience.                              |
+| **Built-in File Manager**    | Browse and manage your files through an integrated file explorer.                                   |
+| **App Personalization**      | Customize installed app icons and names to make your desktop your own.                              |
+| **Default Launcher Support** | Optionally set HyperDroid as your Android device's default home launcher.                           |
 
-### 🪟 **Floating Window Support**  
-<sup>Launch installed WebApps in resizable, floating windows for enhanced multitasking.</sup>
 
-### ⚙️ **Customizable Display Density**  
-<sup>Adjust screen scaling to suit your preferences and display size.</sup>
 
-### 🌍 **Multi-Language Support**  
-<sup>Available in multiple languages to ensure a more accessible experience for all users.</sup>
+## Set as Default Launcher
+For a more integrated desktop experience, you can optionally set HyperDroid as your default launcher.
+<br>
+**`HyperDroid Settings` → System → Default Launcher → Enable as launcher**
 
-### 📁 **Built-in File Manager**  
-<sup>Manage your files easily with a clean and user-friendly file explorer.</sup>
-
-### 🎨 **Editable App Icons and Names**  
-<sup>Personalize your experience by renaming apps and changing their icons.</sup>
-
-### 📱 **Set as Default Launcher**  
-<sup>Optionally set **HyperDroid** as your system’s default launcher for seamless integration.</sup>
+---
 
 ## Links
-<a href="https://github.com/windows-ui/HyperDroid/tree/main/PrivacyPolicy">
-  <img src="https://img.shields.io/badge/Privacy%20Policy-View-blue?style=for-the-badge&logo=polywork&logoColor=white" style="height:40px;">
-</a>
+
+<p align="left">
+  <a href="https://github.com/windows-ui/HyperDroid/tree/main/PrivacyPolicy">
+    <img src="https://img.shields.io/badge/Privacy%20Policy-View-blue?style=for-the-badge" alt="Privacy Policy">
+  </a>
+</p>
+&#x20; </a>
+</p>
